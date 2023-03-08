@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .manage {
+    display: flex;
+    justify-content: space-around;
+    padding: 70px 0px;
+    margin-top: 70px;
+    background: #F1F1F1;
+    align-items: center;
+
+  }
+
+  .box {
+    display: flex;
+    gap: 20px;
+  }
+
+  
